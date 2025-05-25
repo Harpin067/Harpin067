@@ -1,4 +1,4 @@
-# 👋 Hola, soy Brian Steven Beltrán Reina
+# 👋 Hola, soy Brian Stephen Beltrán Reina
 
 Soy estudiante de Ingeniería en Desarrollo de Software con pasión por la informática, software libre y desarrollo de código. Me especializo en Java, desarrollo web, móvil y de escritorio.
 
