@@ -1,47 +1,61 @@
 <div align="center">
-```
-~/brian@dev ~ cat README.md
-```
 
 # Brian Stephen Beltrán Reina
 
-*Software Development Engineering student · Java · Web · Mobile · GNU/Linux*
+**`Software Dev Engineer · Java · Data Science · Automation · GNU/Linux`**
+
+[LinkedIn](https://www.linkedin.com/in/steven-beltrán-5b937b230) · [Email](mailto:stevenbeltran067@gmail.com) · [GitHub](https://github.com/Harpin067)
 
 </div>
 
 ---
 
-## About me
+## `> whoami`
 
-Estudiante de Ingeniería en Desarrollo de Software con pasión por la informática, el software libre y el desarrollo de código.  
-Construyo soluciones web, móviles y de escritorio con foco en **Java** y tecnologías open source.
+Estudiante de **Ingeniería en Desarrollo de Software** con pasión por la informática, el software libre y la construcción de soluciones que resuelvan problemas reales. Mi enfoque va desde aplicaciones web y móviles hasta **pipelines de datos**, **chatbots inteligentes** y **flujos de automatización**. Creo en el poder del open source y en que la mejor documentación es la que se escribe antes de que alguien la pida.
 
 ---
 
-## 🛠️ Stack técnico
+## 🛠️ Stack Técnico
 
 | Área | Tecnologías |
 |------|------------|
-| **Lenguajes** | Java ★, Python, HTML, CSS, JavaScript |
-| **Frameworks** | Spring Boot, Node.js, React, Bootstrap |
-| **Plataformas** | Web Frontend & Backend, Android, Consola, Escritorio |
-| **Sistemas** | Administración de servidores GNU/Linux |
+| **Lenguajes** | Java ★, Python, JavaScript, SQL, HTML, CSS |
+| **Frameworks & Libs** | Spring Boot, Node.js, React, Bootstrap, Pandas, Scikit-learn |
+| **Data & BD** | PostgreSQL, MySQL, MongoDB, Jupyter, Matplotlib |
+| **Automatización & Chatbots** | n8n, LangChain, OpenAI API, Telegram Bots, WhatsApp API |
+| **Plataformas & DevOps** | GNU/Linux, Docker, Git, Android |
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Áreas de Enfoque
 
-![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harpin067&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harpin067&layout=compact&theme=dark&hide_border=true)
+### 💻 Desarrollo Full-Stack
+Aplicaciones web y móviles de punta a punta: desde REST APIs con **Spring Boot** y **Node.js** hasta interfaces con **React** y apps nativas Android. Manejo de bases de datos relacionales y NoSQL.
+
+### 📊 Ciencia de Datos & Análisis
+Exploración, limpieza y visualización de datos con **Python** (Pandas, Matplotlib, Seaborn). Modelos de clasificación y regresión con **Scikit-learn**. Notebooks reproducibles en **Jupyter** para comunicar hallazgos de forma clara.
+
+### 🤖 Automatización & Chatbots
+Diseño de flujos de automatización con **n8n** y herramientas low-code/no-code para conectar APIs, servicios y bases de datos. Desarrollo de **chatbots** conversacionales integrando LLMs (OpenAI API, LangChain) con canales como Telegram y WhatsApp. Automatización de procesos repetitivos: notificaciones, scraping, sincronización de datos y reportes programados.
+
+### 🐧 Administración de Sistemas
+Gestión de servidores **GNU/Linux**, scripting en Bash, contenedores con **Docker** y despliegue de servicios self-hosted.
 
 ---
 
-## 📫 Contacto
+## 📂 Repositorios
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-beltrán-5b937b230)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:stevenbeltran067@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Harpin067)
+Explora mis proyectos en [github.com/Harpin067](https://github.com/Harpin067?tab=repositories)
 
 ---
 
-*// gracias por visitar mi perfil — ¡siempre open to collaborate!*
+<div align="center">
+
+```
+📍 El Salvador · 🎓 Ing. Desarrollo de Software · 🐧 Linux user · ☕ Java lover
+```
+
+*// gracias por visitar mi perfil — always open to collaborate!*
+
+</div>
