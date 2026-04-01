@@ -1,6 +1,6 @@
 <div align="center">
 ```
-
+~/brian@dev ~ cat README.md
 ```
 
 # Brian Stephen Beltrán Reina
