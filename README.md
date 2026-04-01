@@ -1,30 +1,47 @@
-# 👋 Hola, soy Brian Stephen Beltrán Reina
+<div align="center">
+```
+~/brian@dev ~ cat README.md
+```
 
-Soy estudiante de Ingeniería en Desarrollo de Software con pasión por la informática, software libre y desarrollo de código. Me especializo en Java, desarrollo web, móvil y de escritorio.
+# Brian Stephen Beltrán Reina
+
+*Software Development Engineering student · Java · Web · Mobile · GNU/Linux*
+
+</div>
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## About me
 
-- **Lenguajes:** Java (especialidad), Python, HTML, CSS, JavaScript  
-- **Frameworks y tecnologías:** Spring Boot, Node.js, React, Bootstrap  
-- **Desarrollo:** Web frontend y backend, aplicaciones de consola, escritorio y móviles (Android)  
-- **Sistemas:** Administración de servidores GNU/Linux
+Estudiante de Ingeniería en Desarrollo de Software con pasión por la informática, el software libre y el desarrollo de código.  
+Construyo soluciones web, móviles y de escritorio con foco en **Java** y tecnologías open source.
+
+---
+
+## 🛠️ Stack técnico
+
+| Área | Tecnologías |
+|------|------------|
+| **Lenguajes** | Java ★, Python, HTML, CSS, JavaScript |
+| **Frameworks** | Spring Boot, Node.js, React, Bootstrap |
+| **Plataformas** | Web Frontend & Backend, Android, Consola, Escritorio |
+| **Sistemas** | Administración de servidores GNU/Linux |
+
+---
+
+## 📊 GitHub Stats
+
+![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harpin067&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harpin067&layout=compact&theme=dark&hide_border=true)
 
 ---
 
 ## 📫 Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/steven-beltrán-5b937b230)  
-- [Correo electrónico](mailto:stevenbeltran067@gmail.com)  
-- [GitHub](https://github.com/Harpin067)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-beltrán-5b937b230)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:stevenbeltran067@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Harpin067)
 
 ---
 
-¡Gracias por visitar mi perfil! 😊
-
-
-<!---
-Harpin067/Harpin067 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*// gracias por visitar mi perfil — ¡siempre open to collaborate!*
